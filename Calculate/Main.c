@@ -1,3 +1,5 @@
+// Creation Date: 2022.05.13. Fri, 22:23:43
+// Modified Date: 2022.05.13. Fri, 23:02:19
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
