@@ -2,6 +2,10 @@
 
 2022년에 C언어로 만들 계산기 프로그램입니다.
 
+# **Videos(영상)**
+
+[![Development Note p.231](https://img.youtube.com/vi/dTWKVF_yypg/0.jpg)](https://www.youtube.com/watch?v=dTWKVF_yypg)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
